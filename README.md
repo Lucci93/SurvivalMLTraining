@@ -1,7 +1,8 @@
 # Survival shooter training for an AI with ML
 
 The project allow you to train an AI to survive in a hostile environment.
-Made in Unity and ML-Agent library.
+
+Check the [CHANGELOG.md](LICENSE.md) file to keep track of updates.
 
 ## Contributing
 
