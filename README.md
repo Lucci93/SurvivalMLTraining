@@ -14,7 +14,7 @@ If you are interested in fixing issues and contributing directly to the code bas
 
 ### Prerequisites
 
-You must have at least **Unity 2017.x.x** and **ML-Agent v0.3.x** installed to run the project, however, **Unity 2018.1** is recommended.
+You must have at least **Unity 2017.x.x** and **ML-Agent v0.4.x** installed to run the project, however, **Unity 2018.1** is recommended.
 
 ### Installing
 
@@ -25,7 +25,7 @@ Download or clone the repository and launch the *Main.unity* file inside the *As
 ## Built With
 
 * [Unity 2018.1](https://unity3d.com)
-* [ML-Agent v0.3.1b](https://github.com/Unity-Technologies/ml-agents)
+* [ML-Agent v0.4](https://github.com/Unity-Technologies/ml-agents)
 * [Visual Studio For Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
 
 ## Authors

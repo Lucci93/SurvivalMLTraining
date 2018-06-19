@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [0.1.1] - 2018-06-09
 
+### Changed
+
+- Skipped to ML-Agents v0.4
+- README.md updated with new ML-Agents reference
+
+## [0.1.1] - 2018-06-09
+
 ### Added
 
 - Structure of the project created
